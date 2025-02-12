@@ -8,11 +8,14 @@ body {
   margin: 0; /* Remove default margin */
 }
 
+.container {
+  text-align: center; /* Center text and button inside the container */
+}
+
 #comment {
   padding: 20px;
   font-size: 1.2em;
-  margin-bottom: 20px;
-  text-align: center; /* Center text inside the comment */
+  margin-bottom: 20px; /* Space between comment and button */
 }
 
 button {
