@@ -5,7 +5,9 @@ const comments = [
   "Your eyes are so pretty.",
   "Your smile is contagious!",
   "You have the most comforting touch!",
-  "I love you ! :) "
+  "I love you ! :) ",
+  "You got this baccha 🤗",
+  "May you always win at the things you love "
 ];
 const tags = ["sunshine", "love", "motivation", "happiness"]; // Array of tags
 
