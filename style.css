@@ -1,13 +1,18 @@
 body {
   font-family: sans-serif;
-  text-align: center;
   background-color: #cfc1f7; /* AliceBlue */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+  margin: 0; /* Remove default margin */
 }
 
 #comment {
   padding: 20px;
   font-size: 1.2em;
   margin-bottom: 20px;
+  text-align: center; /* Center text inside the comment */
 }
 
 button {
@@ -21,4 +26,3 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
-
