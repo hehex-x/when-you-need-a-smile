@@ -7,7 +7,7 @@ const comments = [
   "You have the most comforting touch!",
   "I love you ! :) ",
   "You got this baccha 🤗",
-  "May you always win at the things you love "
+  "Rail me 👀"
 ];
 const tags = ["sunshine", "love", "motivation", "happiness"]; // Array of tags
 
