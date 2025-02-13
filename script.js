@@ -41,3 +41,27 @@ function getComment() {
   document.getElementById("comment").textContent = comments[randomIndex];
 }
 
+function createGiftJars() {
+  const numJars = 20; // Number of gift jars
+  const container = document.getElementById("gift-jar-container");
+
+  for (let i = 0; i < numJars; i++) {
+    const jar = document.createElement("div");
+    jar.classList.add("gift-jar");
+
+    // Random position for the gift jar
+    const x = Math.random() * window.innerWidth;
+    const y = Math.random() * window.innerHeight;
+    jar.style.left = `${x}px`;
+    jar.style.top = `${y}px`;
+
+    // Random rotation for variety
+    const rotation = Math.random() * 360;
+    jar.style.transform = `rotate(${rotation}deg)`;
+
+    container.appendChild(jar);
+  }
+}
+
+// Call the function to create gift jars
+createGiftJars();
