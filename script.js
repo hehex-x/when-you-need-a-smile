@@ -11,7 +11,7 @@ const comments = [
 ];
 
 const tags = ["sunshine", "love", "motivation", "happiness"]; // Array of tags
-const accessKey = "KTdKoeeVifQZ4NJHYvJd6a4AEfKZsugPjthmos7ERb4"; // Your Unsplash API key
+const accessKey = "oOPzk_rxk2u3ssOFhfynw02gbvC56QLvjZ_IljxFPqo"; // Your Unsplash API key
 
 async function getComment() {
   // Get a random comment
