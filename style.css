@@ -18,6 +18,8 @@ body {
   margin-bottom: 20px; /* Space between comment and button */
   position: relative; /* Position relative for absolute positioning of overlay */
   color: white; /* Change text color to white */
+  border-radius: 15px; /* Add rounded corners to the comment box */
+  overflow: hidden; /* Ensure the overlay respects the border radius */
 }
 
 #comment::before {
