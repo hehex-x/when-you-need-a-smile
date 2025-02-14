@@ -8,6 +8,7 @@ const comments = [
   "I love you! :)",
   "You got this baccha 🤗",
   "Rail me 👀"
+  "You're my whole heart, MC!"
 ];
 
 const tags = ["sunshine", "love", "motivation", "happiness"]; // Array of tags
