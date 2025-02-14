@@ -17,6 +17,7 @@ body {
   font-size: 1.2em;
   margin-bottom: 20px; /* Space between comment and button */
   position: relative; /* Position relative for absolute positioning of overlay */
+  color: white; /* Change text color to white */
 }
 
 #comment::before {
