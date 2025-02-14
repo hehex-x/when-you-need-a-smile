@@ -7,7 +7,7 @@ const comments = [
   "You have the most comforting touch!",
   "I love you! :)",
   "You got this baccha 🤗",
-  "Rail me 👀"
+  "Rail me 👀",
   "You're my whole heart, MC!"
 ];
 
